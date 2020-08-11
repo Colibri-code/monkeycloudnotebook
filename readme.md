@@ -14,8 +14,8 @@ El formato para añadir archivos sera el siguiente:
      sobre el cual se esta trabajando o agregando.
 # To do
 
-1. Documentar instalación de base de datos - node
-2. Crear folder del repositorio - python
+
+1. Crear folder del repositorio - python
 
 # Done
-
+1. Documentar instalación de base de datos - node
